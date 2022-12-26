@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Cs Access modifiers, Encapsulation\Cs Access modifiers, Encapsulation\bin\Debug\netcoreapp3.1\Cs Access modifiers, Encapsulation.exe
+C:\Users\User\source\repos\Cs Access modifiers, Encapsulation\Cs Access modifiers, Encapsulation\bin\Debug\netcoreapp3.1\Cs Access modifiers, Encapsulation.deps.json
+C:\Users\User\source\repos\Cs Access modifiers, Encapsulation\Cs Access modifiers, Encapsulation\bin\Debug\netcoreapp3.1\Cs Access modifiers, Encapsulation.runtimeconfig.json
+C:\Users\User\source\repos\Cs Access modifiers, Encapsulation\Cs Access modifiers, Encapsulation\bin\Debug\netcoreapp3.1\Cs Access modifiers, Encapsulation.runtimeconfig.dev.json
+C:\Users\User\source\repos\Cs Access modifiers, Encapsulation\Cs Access modifiers, Encapsulation\bin\Debug\netcoreapp3.1\Cs Access modifiers, Encapsulation.dll
+C:\Users\User\source\repos\Cs Access modifiers, Encapsulation\Cs Access modifiers, Encapsulation\bin\Debug\netcoreapp3.1\Cs Access modifiers, Encapsulation.pdb
+C:\Users\User\source\repos\Cs Access modifiers, Encapsulation\Cs Access modifiers, Encapsulation\obj\Debug\netcoreapp3.1\Cs Access modifiers, Encapsulation.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Cs Access modifiers, Encapsulation\Cs Access modifiers, Encapsulation\obj\Debug\netcoreapp3.1\Cs Access modifiers, Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Cs Access modifiers, Encapsulation\Cs Access modifiers, Encapsulation\obj\Debug\netcoreapp3.1\Cs Access modifiers, Encapsulation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Cs Access modifiers, Encapsulation\Cs Access modifiers, Encapsulation\obj\Debug\netcoreapp3.1\Cs Access modifiers, Encapsulation.AssemblyInfo.cs
+C:\Users\User\source\repos\Cs Access modifiers, Encapsulation\Cs Access modifiers, Encapsulation\obj\Debug\netcoreapp3.1\Cs Access modifiers, Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cs Access modifiers, Encapsulation\Cs Access modifiers, Encapsulation\obj\Debug\netcoreapp3.1\Cs Access modifiers, Encapsulation.dll
+C:\Users\User\source\repos\Cs Access modifiers, Encapsulation\Cs Access modifiers, Encapsulation\obj\Debug\netcoreapp3.1\Cs Access modifiers, Encapsulation.pdb
+C:\Users\User\source\repos\Cs Access modifiers, Encapsulation\Cs Access modifiers, Encapsulation\obj\Debug\netcoreapp3.1\Cs Access modifiers, Encapsulation.genruntimeconfig.cache

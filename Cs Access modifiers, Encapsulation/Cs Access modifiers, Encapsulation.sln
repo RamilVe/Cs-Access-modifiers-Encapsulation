@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cs Access modifiers, Encapsulation", "Cs Access modifiers, Encapsulation\Cs Access modifiers, Encapsulation.csproj", "{FC2ED52E-2C95-4394-877D-27D3262C97BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC2ED52E-2C95-4394-877D-27D3262C97BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2ED52E-2C95-4394-877D-27D3262C97BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2ED52E-2C95-4394-877D-27D3262C97BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2ED52E-2C95-4394-877D-27D3262C97BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD81EE8B-1938-487B-8D61-CD2E9D4D6C9E}
+	EndGlobalSection
+EndGlobal
